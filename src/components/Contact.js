@@ -53,16 +53,16 @@ export const Contact = () => {
     <section className="contact" id="contact">
       <Container>
         <Row>
-          {/*<Col md={6}>
+          <Col md={6}>
             <iframe
               width="100%"
               height="450"
-              src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+              src="https://www.youtube.com/embed/-H5HpYoe6Y4"
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
             ></iframe>
-  </Col> */}
+  </Col>
           <Col md={6}>
             <TrackVisibility>
               {({ isVisible }) => (
