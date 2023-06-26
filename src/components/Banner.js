@@ -84,12 +84,12 @@ export const Banner = () => {
                   <h3>About Me</h3>
                   <p style={{ marginBottom:"2rem" }}>
                   Hi, I'm Ni Made Novalia Yordan Theofani or usually called Nova.
-                  I am 21 years old.
-                  I am a student from Stikom Bali University, majoring in Information Systems and I am also a student from Lithan EduclasS majoring in Digital System Administration.
-                  I am a graduate of Software Engineering when I was in high school.
+                  I am 21 years old, and i am an ambitious person, perfectionist, and learn new things quickly.
+                  I am a Cloud Engineer & Web Developer, and already have some experience in the world of Programming, Cloud Computing, and also Editing because my hobbies are Photography and Videography. 
+                  With all of my skills, i'm just looking for the companies to hire me as an internship. 
+
                   </p>
-                  <p style={{ marginTop:"2rem" }}>Apart from that, I also learned photo or video editing because my hobbies are photography and videography
-                  </p>
+                  <p style={{ marginTop:"2rem" }}>Apart from that, I also offer services as an Editor, Content Creator and Content Designing with interesting and very good project results. With that I can make the company or product known to the wider community.</p>
                 </div>
               )}
             </TrackVisibility>
