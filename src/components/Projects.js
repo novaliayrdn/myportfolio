@@ -336,7 +336,7 @@ export const Projects = () => {
                     <Col md={6}>
                       <div class="video-container">
                         <iframe
-                          src="https://www.youtube.com/embed/8S-Aqm_Xag0"
+                          src="https://www.youtube.com/embed/UdX3T1wc6_o"
                           title="YouTube video player"
                           frameborder="0"
                           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
