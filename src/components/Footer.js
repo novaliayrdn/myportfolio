@@ -33,7 +33,7 @@ export const Footer = () => {
                 <img src={navIcon3} alt="Icon" />
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com/in/novalia-yordan/"
                 target="_blank"
                 rel="noreferrer"
               >
