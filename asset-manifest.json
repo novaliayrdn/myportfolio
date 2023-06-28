@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.e5d0460d.css",
-    "main.js": "/myportfolio/static/js/main.8601e85e.js",
+    "main.js": "/myportfolio/static/js/main.5e71e7a9.js",
     "static/media/ultah-gereja.mp4": "/myportfolio/static/media/ultah-gereja.d0d366c1f0f28314a321.mp4",
     "static/media/content2.png": "/myportfolio/static/media/content2.e1e16231c21db8b1695c.png",
     "static/media/april23.mov": "/myportfolio/static/media/april23.0cf87ae08ae363e93b49.mov",
@@ -61,10 +61,10 @@
     "static/media/sublime-text.svg": "/myportfolio/static/media/sublime-text.d3b0afdc5388575476413ecfa8824acf.svg",
     "index.html": "/myportfolio/index.html",
     "main.e5d0460d.css.map": "/myportfolio/static/css/main.e5d0460d.css.map",
-    "main.8601e85e.js.map": "/myportfolio/static/js/main.8601e85e.js.map"
+    "main.5e71e7a9.js.map": "/myportfolio/static/js/main.5e71e7a9.js.map"
   },
   "entrypoints": [
     "static/css/main.e5d0460d.css",
-    "static/js/main.8601e85e.js"
+    "static/js/main.5e71e7a9.js"
   ]
 }
