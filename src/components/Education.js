@@ -21,7 +21,7 @@ export const Education = () => {
                     has postponed my studies for two years because of the
                     pandemic, and for two years i studied the world of
                     technology myself and deepened my coding and editing skills.
-                    And now continue majoring in System Information{" "}
+                    And now continue majoring in Information System{" "}
                   </p>
                   <span className="date">2022 - Present</span>
                   <span className="circle"></span>

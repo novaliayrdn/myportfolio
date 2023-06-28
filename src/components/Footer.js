@@ -2,6 +2,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import navIcon2 from "../assets/img/nav-icon2.svg";
 import navIcon3 from "../assets/img/nav-icon3.svg";
 import navIcon4 from "../assets/img/navicon4.png";
+import yt from "../assets/img/yt.png";
 
 import "./css/Footer.css";
 
@@ -38,6 +39,13 @@ export const Footer = () => {
                 rel="noreferrer"
               >
                 <img src={navIcon4} alt="Icon" />
+              </a>
+              <a
+                href="https://youtube.com/@novaliayordan"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img src={yt} alt="Icon" />
               </a>
             </div>
   
