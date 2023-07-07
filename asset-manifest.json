@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.e5d0460d.css",
-    "main.js": "/myportfolio/static/js/main.5e71e7a9.js",
+    "main.js": "/myportfolio/static/js/main.4bc24e7d.js",
     "static/media/ultah-gereja.mp4": "/myportfolio/static/media/ultah-gereja.d0d366c1f0f28314a321.mp4",
     "static/media/content2.png": "/myportfolio/static/media/content2.e1e16231c21db8b1695c.png",
     "static/media/april23.mov": "/myportfolio/static/media/april23.0cf87ae08ae363e93b49.mov",
@@ -32,6 +32,7 @@
     "static/media/lab1-ss2.png": "/myportfolio/static/media/lab1-ss2.40410acc3ee2481044ff.png",
     "static/media/powerpoint.png": "/myportfolio/static/media/powerpoint.f59ca2afb927a7fd13da.png",
     "static/media/mod5-iu3(2).png": "/myportfolio/static/media/mod5-iu3(2).4e09bb76ba91cbd3db8a.png",
+    "static/media/Novalia's Resume.pdf": "/myportfolio/static/media/Novalia's Resume.b2405925a2daaefafb41.pdf",
     "static/media/mod5-iu3.png": "/myportfolio/static/media/mod5-iu3.aac25aff0dfc45c762f7.png",
     "static/media/content-desaigning.jpeg": "/myportfolio/static/media/content-desaigning.e803e38b8586eb0ba1ed.jpeg",
     "static/media/lithan3.png": "/myportfolio/static/media/lithan3.022eb41002aa6144b344.png",
@@ -61,10 +62,10 @@
     "static/media/sublime-text.svg": "/myportfolio/static/media/sublime-text.d3b0afdc5388575476413ecfa8824acf.svg",
     "index.html": "/myportfolio/index.html",
     "main.e5d0460d.css.map": "/myportfolio/static/css/main.e5d0460d.css.map",
-    "main.5e71e7a9.js.map": "/myportfolio/static/js/main.5e71e7a9.js.map"
+    "main.4bc24e7d.js.map": "/myportfolio/static/js/main.4bc24e7d.js.map"
   },
   "entrypoints": [
     "static/css/main.e5d0460d.css",
-    "static/js/main.5e71e7a9.js"
+    "static/js/main.4bc24e7d.js"
   ]
 }
