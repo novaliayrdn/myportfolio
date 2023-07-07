@@ -1,9 +1,11 @@
 import { useState, useEffect } from "react";
 import { Nav, Navbar, Container } from "react-bootstrap";
 import cv from "../assets/doc/Novalia’s Curiculum Vitae.pdf";
+import resume from "../assets/doc/Novalia's Resume.pdf";
 import { BrowserRouter as Router } from "react-router-dom";
 
 import "./css/NavBar.css";
+import NavbarCollapse from "react-bootstrap/esm/NavbarCollapse";
 
 export const NavBar = () => {
   const [activeLink, setActiveLink] = useState("home");
@@ -114,10 +116,17 @@ export const NavBar = () => {
             </Nav>
               <span className="navbar-text">
               <a className="vvd" href={cv} target="_blank" rel="noreferrer">
-                <span>Download CV</span>
+                <span>My CV</span>
               </a>
             </span>
           </Navbar.Collapse>
+          <NavbarCollapse>
+          <span className="navbar-text">
+              <a className="vvd" href={resume} target="_blank" rel="noreferrer">
+                <span>My Resume</span>
+              </a>
+            </span>
+          </NavbarCollapse>
         </Container>
       </Navbar>
     </Router>
